@@ -16,6 +16,8 @@ public class Hello {
 //        int calc =hello.calc();
 //        System.out.println(calc);
         hello.sayHello();
+        int i = "hello".codePointAt(2);
+        System.out.println(i);
     }
 
     public static void sayHello() {
