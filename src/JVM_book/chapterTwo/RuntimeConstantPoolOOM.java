@@ -1,4 +1,4 @@
-package chapterTwo;
+package JVM_book.chapterTwo;
 
 import java.util.ArrayList;
 import java.util.List;

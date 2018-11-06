@@ -1,4 +1,4 @@
-package chapterTwo;
+package JVM_book.chapterTwo;
 
 import sun.misc.Unsafe;
 

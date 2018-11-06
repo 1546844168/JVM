@@ -1,4 +1,4 @@
-package chapterEight.man;
+package JVM_book.chapterEight.man;
 
 /**
  * @author 潇潇暮雨

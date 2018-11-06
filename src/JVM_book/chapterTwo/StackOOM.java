@@ -1,4 +1,4 @@
-package chapterTwo;
+package JVM_book.chapterTwo;
 
 /**
  * @author 江峰
