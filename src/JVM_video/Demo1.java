@@ -1,4 +1,4 @@
-package JVM_video.one;
+package JVM_video;
 
 /**
  * @author 潇潇暮雨
