@@ -14,7 +14,5 @@ public class Demo2 {
         System.out.println(demo1.getClass().getClassLoader().getParent());
         System.out.println(demo1.getClass().getClassLoader().getParent().getParent());
         System.out.println("--------------------------------------");
-
-
     }
 }
