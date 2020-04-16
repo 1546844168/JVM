@@ -15,9 +15,9 @@ public class Hello {
 //        System.gc();
 //        int calc =hello.calc();
 //        System.out.println(calc);
-        hello.sayHello();
-        int i = "hello".codePointAt(2);
-        System.out.println(i);
+//         hello.sayHello();
+//         int i = "hello".codePointAt(2);
+//         System.out.println(i);
     }
 
     public static void sayHello() {
